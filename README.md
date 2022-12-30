@@ -15,4 +15,4 @@ cual es la imagen en blanco y negro, y otro del canal H.
 
 
 # Archivos de codigo
-La programación de la red neuronal se puede encontrar en QT> mainwindow.cpp
+La programación de la red neuronal se puede encontrar en QT>neuralnetworks>mainwindow.cpp
